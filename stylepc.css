@@ -1,0 +1,80 @@
+html {
+    background-color: azure;
+    padding: 50px;
+}
+
+body {
+    background-color: antiquewhite;
+    padding: 0px;
+    margin: 0;
+}
+
+.control{
+margin: 20px;
+padding:30px;
+display: flex;
+
+}
+
+.item1 {
+    background-color: grey;
+    margin: 10px;
+    width: 100px;
+    height: 100px;
+    text-align: center;
+    padding: 10px;
+    line-height:50px;
+}
+.item2 {
+    background-color: grey;
+    margin: 10px;
+    width: 150px;
+    height: 100px;
+    text-align: center;
+    padding: 10px;
+    line-height:50px;
+}
+
+.item3 {
+    background-color: grey;
+    margin: 10px;
+    width: 150px;
+    height: 100px;
+    text-align: center;
+    padding: 10px;
+    line-height:50px;
+}
+
+.item4 {
+    background-color: grey;
+    margin: 10px;
+    width: 150px;
+    height: 100px;
+    text-align: center;
+    padding: 10px;
+    line-height:50px;
+}
+.item5 {
+    background-color: grey;
+    margin: 10px;
+    width: 150px;
+    height: 100px;
+    text-align: center;
+    padding: 10px;
+    line-height:50px;
+}
+
+.item6 {
+    background-color: grey;
+    margin: 10px;
+    width: 150px;
+    height: 100px;
+    text-align: center;
+    padding: 10px;
+    line-height:50px;
+}
+
+table, th, td {
+    border: 1px solid black;
+  }
+
